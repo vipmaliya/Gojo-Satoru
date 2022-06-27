@@ -28,11 +28,11 @@ global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.myweb = 'https://youtube.com/channel/UC90Bawcg4Z4gp4p4mHkmgFA?sub_confirmation=1'
 global.packname = 'Gojo-Satoru'
 global.author = '❀⃝⃖🍏⃪⃪ₛͥₑͣᵪᷟʏ̸ мǟℓιуǟ ✓'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🌿',🧸',🍭']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
